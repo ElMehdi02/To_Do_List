@@ -1,7 +1,7 @@
-# To_Do_List
+# To_Do_List_Application
 
 
-# ToDolist
+# ToDolistApplication
 ## Context
 In this project, I used JavaScript and CSS to create a functional To-Do List.
 
